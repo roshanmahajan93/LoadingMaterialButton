@@ -20,6 +20,5 @@
             app:buttonColor="?colorPrimaryDark"
             />
 
-
     </LinearLayout>
 </layout>
