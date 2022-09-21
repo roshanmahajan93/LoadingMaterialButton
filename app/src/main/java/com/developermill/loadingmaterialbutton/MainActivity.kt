@@ -4,7 +4,6 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
 import androidx.core.content.res.ResourcesCompat
-import androidx.databinding.DataBindingUtil
 import com.developermill.loadingmaterialbutton.databinding.ActivityMainBinding
 
 
